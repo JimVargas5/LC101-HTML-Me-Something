@@ -1,16 +1,55 @@
 /* Jim Vargas */
-* {
-    background-color: grey;
-    color: white;
-}
 a:hover {
     font-weight: bold;
 }
-.warning {
-    font-size: 2em;
+.special {
+    font-size: 4em;
     color: red;
     text-align: center;
 }
 p {
     text-align: justify;
+}
+#safe {
+    width: auto;
+    height: auto;
+}
+.img {
+    width: 500px;
+    height: 400px;
+}
+header {
+    text-align: center;
+    font-size: 1.25em;
+    background-color: #ff5a73;
+    border: 1px solid black;
+}
+footer {
+    text-align: center;
+    font-size: 1.25em;
+    background-color: #ff5a73
+}
+body {
+    background-color: red;
+}
+main {
+    background-color: #ff9392;
+    font-size: 1.125em;
+}
+article {
+    border: 2px solid black;
+}
+td {
+    border: 1px solid black;
+}
+.bigger {
+    font-size: 1.25em;
+}
+.wedding {
+    width: 600px;
+    height: 500px;
+}
+#WideWedding {
+    width: auto;
+    height: auto;
 }
