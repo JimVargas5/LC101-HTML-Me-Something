@@ -1,4 +1,4 @@
-# This projecct is how I learned HTML and CSS
+# This project is how I learned HTML and CSS
 
 
 
